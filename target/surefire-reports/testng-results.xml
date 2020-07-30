@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69" started-at="2020-06-22T17:06:08 IST" finished-at="2020-06-22T17:06:08 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="69" started-at="2020-06-22T17:06:08 IST" finished-at="2020-06-22T17:06:08 IST">
+      <class name="maven.AppiumTest">
+        <test-method status="PASS" signature="HybrideApp()[pri:0, instance:maven.AppiumTest@57536d79]" name="HybrideApp" duration-ms="16" started-at="2020-06-22T17:06:08 IST" finished-at="2020-06-22T17:06:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HybrideApp -->
+        <test-method status="PASS" signature="NativeApp()[pri:0, instance:maven.AppiumTest@57536d79]" name="NativeApp" duration-ms="0" started-at="2020-06-22T17:06:08 IST" finished-at="2020-06-22T17:06:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeApp -->
+      </class> <!-- maven.AppiumTest -->
+      <class name="maven.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:maven.SeleniumTest@3b0143d3]" name="BrowserAutomation" duration-ms="0" started-at="2020-06-22T17:06:08 IST" finished-at="2020-06-22T17:06:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="HomePageUI()[pri:0, instance:maven.SeleniumTest@3b0143d3]" name="HomePageUI" duration-ms="0" started-at="2020-06-22T17:06:08 IST" finished-at="2020-06-22T17:06:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageUI -->
+      </class> <!-- maven.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
